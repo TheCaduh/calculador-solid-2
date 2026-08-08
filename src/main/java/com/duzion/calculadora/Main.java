@@ -36,8 +36,6 @@ public class Main {
         }
 
         entrada.fechar();
-
-        //Teste de commit
     }
 }
 
