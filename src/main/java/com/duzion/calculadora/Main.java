@@ -7,7 +7,7 @@ import com.duzion.calculadora.OperacaoFactory;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Versão Estável");
+        System.out.println("\"Versão Experimental\"");
         EntradaDados entrada = new EntradaDados();
 
         // Lê os números e a operação
