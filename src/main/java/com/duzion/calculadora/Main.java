@@ -36,6 +36,8 @@ public class Main {
         }
 
         entrada.fechar();
+
+        // Responsável por encerrar o programa
     }
 }
 
